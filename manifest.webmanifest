@@ -1,6 +1,6 @@
 {
-  "name": "十二生肖 · 星河文化图鉴",
-  "short_name": "十二生肖",
+  "name": "生肖",
+  "short_name": "生肖",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#090817",
