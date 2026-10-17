@@ -1,0 +1,533 @@
+{
+  "schemaVersion": "1.0",
+  "notice": "传统文化分类，不用于预测个人相处结果；部分流派的六刑分类存在差异。",
+  "relationships": [
+    {
+      "id": "六合-0",
+      "type": "六合",
+      "animals": [
+        "rat",
+        "ox"
+      ],
+      "branches": [
+        "子",
+        "丑"
+      ],
+      "note": "子、丑：六合传统分类"
+    },
+    {
+      "id": "六合-1",
+      "type": "六合",
+      "animals": [
+        "tiger",
+        "pig"
+      ],
+      "branches": [
+        "寅",
+        "亥"
+      ],
+      "note": "寅、亥：六合传统分类"
+    },
+    {
+      "id": "六合-2",
+      "type": "六合",
+      "animals": [
+        "rabbit",
+        "dog"
+      ],
+      "branches": [
+        "卯",
+        "戌"
+      ],
+      "note": "卯、戌：六合传统分类"
+    },
+    {
+      "id": "六合-3",
+      "type": "六合",
+      "animals": [
+        "dragon",
+        "rooster"
+      ],
+      "branches": [
+        "辰",
+        "酉"
+      ],
+      "note": "辰、酉：六合传统分类"
+    },
+    {
+      "id": "六合-4",
+      "type": "六合",
+      "animals": [
+        "snake",
+        "monkey"
+      ],
+      "branches": [
+        "巳",
+        "申"
+      ],
+      "note": "巳、申：六合传统分类"
+    },
+    {
+      "id": "六合-5",
+      "type": "六合",
+      "animals": [
+        "horse",
+        "goat"
+      ],
+      "branches": [
+        "午",
+        "未"
+      ],
+      "note": "午、未：六合传统分类"
+    },
+    {
+      "id": "六冲-0",
+      "type": "六冲",
+      "animals": [
+        "rat",
+        "horse"
+      ],
+      "branches": [
+        "子",
+        "午"
+      ],
+      "note": "子、午：六冲传统分类"
+    },
+    {
+      "id": "六冲-1",
+      "type": "六冲",
+      "animals": [
+        "ox",
+        "goat"
+      ],
+      "branches": [
+        "丑",
+        "未"
+      ],
+      "note": "丑、未：六冲传统分类"
+    },
+    {
+      "id": "六冲-2",
+      "type": "六冲",
+      "animals": [
+        "tiger",
+        "monkey"
+      ],
+      "branches": [
+        "寅",
+        "申"
+      ],
+      "note": "寅、申：六冲传统分类"
+    },
+    {
+      "id": "六冲-3",
+      "type": "六冲",
+      "animals": [
+        "rabbit",
+        "rooster"
+      ],
+      "branches": [
+        "卯",
+        "酉"
+      ],
+      "note": "卯、酉：六冲传统分类"
+    },
+    {
+      "id": "六冲-4",
+      "type": "六冲",
+      "animals": [
+        "dragon",
+        "dog"
+      ],
+      "branches": [
+        "辰",
+        "戌"
+      ],
+      "note": "辰、戌：六冲传统分类"
+    },
+    {
+      "id": "六冲-5",
+      "type": "六冲",
+      "animals": [
+        "snake",
+        "pig"
+      ],
+      "branches": [
+        "巳",
+        "亥"
+      ],
+      "note": "巳、亥：六冲传统分类"
+    },
+    {
+      "id": "六害-0",
+      "type": "六害",
+      "animals": [
+        "rat",
+        "goat"
+      ],
+      "branches": [
+        "子",
+        "未"
+      ],
+      "note": "子、未：六害传统分类"
+    },
+    {
+      "id": "六害-1",
+      "type": "六害",
+      "animals": [
+        "ox",
+        "horse"
+      ],
+      "branches": [
+        "丑",
+        "午"
+      ],
+      "note": "丑、午：六害传统分类"
+    },
+    {
+      "id": "六害-2",
+      "type": "六害",
+      "animals": [
+        "tiger",
+        "snake"
+      ],
+      "branches": [
+        "寅",
+        "巳"
+      ],
+      "note": "寅、巳：六害传统分类"
+    },
+    {
+      "id": "六害-3",
+      "type": "六害",
+      "animals": [
+        "rabbit",
+        "dragon"
+      ],
+      "branches": [
+        "卯",
+        "辰"
+      ],
+      "note": "卯、辰：六害传统分类"
+    },
+    {
+      "id": "六害-4",
+      "type": "六害",
+      "animals": [
+        "monkey",
+        "pig"
+      ],
+      "branches": [
+        "申",
+        "亥"
+      ],
+      "note": "申、亥：六害传统分类"
+    },
+    {
+      "id": "六害-5",
+      "type": "六害",
+      "animals": [
+        "rooster",
+        "dog"
+      ],
+      "branches": [
+        "酉",
+        "戌"
+      ],
+      "note": "酉、戌：六害传统分类"
+    },
+    {
+      "id": "六破-0",
+      "type": "六破",
+      "animals": [
+        "rat",
+        "rooster"
+      ],
+      "branches": [
+        "子",
+        "酉"
+      ],
+      "note": "子、酉：六破传统分类"
+    },
+    {
+      "id": "六破-1",
+      "type": "六破",
+      "animals": [
+        "ox",
+        "dragon"
+      ],
+      "branches": [
+        "丑",
+        "辰"
+      ],
+      "note": "丑、辰：六破传统分类"
+    },
+    {
+      "id": "六破-2",
+      "type": "六破",
+      "animals": [
+        "tiger",
+        "pig"
+      ],
+      "branches": [
+        "寅",
+        "亥"
+      ],
+      "note": "寅、亥：六破传统分类"
+    },
+    {
+      "id": "六破-3",
+      "type": "六破",
+      "animals": [
+        "rabbit",
+        "horse"
+      ],
+      "branches": [
+        "卯",
+        "午"
+      ],
+      "note": "卯、午：六破传统分类"
+    },
+    {
+      "id": "六破-4",
+      "type": "六破",
+      "animals": [
+        "snake",
+        "monkey"
+      ],
+      "branches": [
+        "巳",
+        "申"
+      ],
+      "note": "巳、申：六破传统分类"
+    },
+    {
+      "id": "六破-5",
+      "type": "六破",
+      "animals": [
+        "goat",
+        "dog"
+      ],
+      "branches": [
+        "未",
+        "戌"
+      ],
+      "note": "未、戌：六破传统分类"
+    },
+    {
+      "id": "三合-0",
+      "type": "三合",
+      "animals": [
+        "rat",
+        "dragon",
+        "monkey"
+      ],
+      "branches": [
+        "子",
+        "辰",
+        "申"
+      ],
+      "note": "子、辰、申：三合传统分类"
+    },
+    {
+      "id": "三合-1",
+      "type": "三合",
+      "animals": [
+        "ox",
+        "snake",
+        "rooster"
+      ],
+      "branches": [
+        "丑",
+        "巳",
+        "酉"
+      ],
+      "note": "丑、巳、酉：三合传统分类"
+    },
+    {
+      "id": "三合-2",
+      "type": "三合",
+      "animals": [
+        "tiger",
+        "horse",
+        "dog"
+      ],
+      "branches": [
+        "寅",
+        "午",
+        "戌"
+      ],
+      "note": "寅、午、戌：三合传统分类"
+    },
+    {
+      "id": "三合-3",
+      "type": "三合",
+      "animals": [
+        "rabbit",
+        "goat",
+        "pig"
+      ],
+      "branches": [
+        "卯",
+        "未",
+        "亥"
+      ],
+      "note": "卯、未、亥：三合传统分类"
+    },
+    {
+      "id": "三会-0",
+      "type": "三会",
+      "animals": [
+        "pig",
+        "rat",
+        "ox"
+      ],
+      "branches": [
+        "亥",
+        "子",
+        "丑"
+      ],
+      "note": "亥、子、丑：三会传统分类"
+    },
+    {
+      "id": "三会-1",
+      "type": "三会",
+      "animals": [
+        "tiger",
+        "rabbit",
+        "dragon"
+      ],
+      "branches": [
+        "寅",
+        "卯",
+        "辰"
+      ],
+      "note": "寅、卯、辰：三会传统分类"
+    },
+    {
+      "id": "三会-2",
+      "type": "三会",
+      "animals": [
+        "snake",
+        "horse",
+        "goat"
+      ],
+      "branches": [
+        "巳",
+        "午",
+        "未"
+      ],
+      "note": "巳、午、未：三会传统分类"
+    },
+    {
+      "id": "三会-3",
+      "type": "三会",
+      "animals": [
+        "monkey",
+        "rooster",
+        "dog"
+      ],
+      "branches": [
+        "申",
+        "酉",
+        "戌"
+      ],
+      "note": "申、酉、戌：三会传统分类"
+    },
+    {
+      "id": "六刑-0",
+      "type": "六刑",
+      "animals": [
+        "rat",
+        "rabbit"
+      ],
+      "branches": [
+        "子",
+        "卯"
+      ],
+      "note": "六刑的组合与解释依流派有所差异"
+    },
+    {
+      "id": "六刑-1",
+      "type": "六刑",
+      "animals": [
+        "tiger",
+        "snake",
+        "monkey"
+      ],
+      "branches": [
+        "寅",
+        "巳",
+        "申"
+      ],
+      "note": "六刑的组合与解释依流派有所差异"
+    },
+    {
+      "id": "六刑-2",
+      "type": "六刑",
+      "animals": [
+        "ox",
+        "goat",
+        "dog"
+      ],
+      "branches": [
+        "丑",
+        "未",
+        "戌"
+      ],
+      "note": "六刑的组合与解释依流派有所差异"
+    },
+    {
+      "id": "六刑-3",
+      "type": "六刑",
+      "animals": [
+        "dragon",
+        "dragon"
+      ],
+      "branches": [
+        "辰",
+        "辰"
+      ],
+      "note": "六刑的组合与解释依流派有所差异"
+    },
+    {
+      "id": "六刑-4",
+      "type": "六刑",
+      "animals": [
+        "horse",
+        "horse"
+      ],
+      "branches": [
+        "午",
+        "午"
+      ],
+      "note": "六刑的组合与解释依流派有所差异"
+    },
+    {
+      "id": "六刑-5",
+      "type": "六刑",
+      "animals": [
+        "rooster",
+        "rooster"
+      ],
+      "branches": [
+        "酉",
+        "酉"
+      ],
+      "note": "六刑的组合与解释依流派有所差异"
+    },
+    {
+      "id": "六刑-6",
+      "type": "六刑",
+      "animals": [
+        "pig",
+        "pig"
+      ],
+      "branches": [
+        "亥",
+        "亥"
+      ],
+      "note": "六刑的组合与解释依流派有所差异"
+    }
+  ]
+}
